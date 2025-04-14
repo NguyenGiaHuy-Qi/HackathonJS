@@ -1,4 +1,3 @@
-// Khởi tạo mảng sinh viên
 let studentList = [];
 let editIndex = -1; 
 const studentForm = document.getElementById("studentForm");
